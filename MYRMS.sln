@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MYRMS", "MYRMS\MYRMS.csproj", "{DA628DF4-5171-4B2A-B8A4-F1F56D645082}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA628DF4-5171-4B2A-B8A4-F1F56D645082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA628DF4-5171-4B2A-B8A4-F1F56D645082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA628DF4-5171-4B2A-B8A4-F1F56D645082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA628DF4-5171-4B2A-B8A4-F1F56D645082}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C567E3F0-2A05-4D20-871D-93DBB3C07337}
+	EndGlobalSection
+EndGlobal
