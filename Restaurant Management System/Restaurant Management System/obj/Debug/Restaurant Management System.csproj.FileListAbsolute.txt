@@ -1,0 +1,56 @@
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.AssemblyReference.cache
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.FormLogin.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.FormRegister.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmMain.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\bin\Debug\Guna.UI.dll
+C:\Users\Ruwini Tharanga\Downloads\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CopyComplete
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.AssemblyReference.cache
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.FormLogin.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.FormRegister.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmMain.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CopyComplete
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.formProducts.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.formTables.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.formStaff.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.formPOS.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.formKitchen.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.formReports.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.formSettings.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.SampleView.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.SampleAdd.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.View.frmCategoryView.resources
+C:\Users\Ruwini Tharanga\Downloads\Restaurant-Management-System\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Model.frmCategoryAdd.resources
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.AssemblyReference.cache
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.FormLogin.resources
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.FormRegister.resources
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.frmMain.resources
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.Properties.Resources.resources
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.GenerateResource.cache
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.exe
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.pdb
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe.config
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.exe
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\bin\Debug\Restaurant Management System.pdb
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant Management System.csproj.CopyComplete
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.formMenu.resources
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.formCart.resources
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.formHistory.resources
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.formSettings.resources
+C:\Users\Ruwini Tharanga\Videos\Restaurant Management System\Restaurant Management System\obj\Debug\Restaurant_Management_System.formPizza.resources
